@@ -1,0 +1,37 @@
+
+# Physical setup:
+
+- The frame should be based on:
+http://www.instructables.com/id/Book-Scanner-Low-cost-easy-to-make-1000-pages-an-h/
+(minimal contructionwork, lightweight, easily expandable into fully automatic movement by adding motors, low-cost)
+
+- The brain of the machine (controlling the camera's, reading the images, putting them into the correct order,
+converting the images into searchable pdf's, etc.) is a Raspberry Pi (specifiy which model will be used).
+
+- The two camera's should be:
+www.raspberrypi-spy.co.uk/2013/05/taking-hi-res-photos-with-the-pi-camera-module
+https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
+https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspistill.md/
+www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-and-opencv/
+www.pyimagesearch.com
+
+- To trigger the camera's, mount a button on the side so that when pages are pressed a new set of captures
+are taken.
+
+- Inspiration: (check comments)
+store.diybookscanner.org
+https://www.raspberrypi.org/blog/raspberry-pi-controlled-book-scanner/
+
+
+# Code setup:
+
+- Installing x-bian: choose between raspbian, minibian, etc.
+- Make a bash script that triggers:
+-- Python script to:
+0) understand start & end of 1 book (button pressed over 5 sec.?)
+1) read button pressed
+2) trigger image-capture commands
+3) ensure correct order of files
+4) paste all files together into one file (at the end)
+5) copy file into backup, and convert into searchable pdf
+6) optional: automatically email/upload to personal cloud
