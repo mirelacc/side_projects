@@ -1,3 +1,11 @@
+http://pidashcam.blogspot.nl/2013/09/configuration.html
+
+http://www.arducam.com/multi-camera-adapter-module-raspberry-pi/
+
+http://www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-and-opencv/
+
+pidashcam.blogspot.nl/2013/10/wiring-button-some-leds-and-gps.html https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=108881
+
 
 # Physical setup:
 
