@@ -8,6 +8,12 @@ pidashcam.blogspot.nl/2013/10/wiring-button-some-leds-and-gps.html https://www.r
 
 http://www.instructables.com/id/Trigger-a-Webcam-with-a-button-and-Raspberry-Pi/?ALLSTEPS
 
+https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=127665 
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=129529 
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=43&t=50142
+
 
 
 # Physical setup:
