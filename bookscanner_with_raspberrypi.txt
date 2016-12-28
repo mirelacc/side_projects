@@ -6,6 +6,9 @@ http://www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-a
 
 pidashcam.blogspot.nl/2013/10/wiring-button-some-leds-and-gps.html https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=108881
 
+http://www.instructables.com/id/Trigger-a-Webcam-with-a-button-and-Raspberry-Pi/?ALLSTEPS
+
+
 
 # Physical setup:
 
