@@ -21,14 +21,18 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=108881
 
 # Physical setup:
 
-- The frame should be based on:
+http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/
+
+Frame base:
 http://www.instructables.com/id/Book-Scanner-Low-cost-easy-to-make-1000-pages-an-h/
 (minimal contructionwork, lightweight, easily expandable into fully automatic movement by adding motors, low-cost)
 
-- The brain of the machine (controlling the camera's, reading the images, putting them into the correct order,
-converting the images into searchable pdf's, etc.) is a Raspberry Pi (specifiy which model will be used).
+Controlling the camera's, reading the images, putting them into the correct order,
+converting the images into searchable pdf's, etc. - is a Raspberry Pi 3 B.
 
 - The two camera's should be:
+Trust trino HD
+
 www.raspberrypi-spy.co.uk/2013/05/taking-hi-res-photos-with-the-pi-camera-module
 https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
 https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspistill.md/
