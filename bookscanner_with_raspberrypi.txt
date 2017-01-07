@@ -1,3 +1,34 @@
+
+>> NEW <<:
+
+https://www.youtube.com/watch?v=N-cgHq1z8p8
+https://www.youtube.com/watch?v=pkZ8OfgRig0
+https://www.youtube.com/user/hymineruva/videos
+
+CAD & INO files:
+https://drive.google.com/file/d/0B4UkEGkFwwUQS05qMXVmOXBwY2M/view
+
+Software:
+https://github.com/Canta/book-scanning
+(by: https://www.youtube.com/watch?v=T0yTWxATKE8)
+
+Hiroshi Yanagisawa.﻿ Blog:
+http://tges.blog117.fc2.com/blog-date-20141220.html
+(his mail: y[].h[]@g..c..)
+
+
+For the physical frame:
+
+For the moving compartment:
+- gipsplaat + waprnningsband (gamma)
+- anti-glare plexi 3 mm (ru58)
+
+
+
+
+
+OLD:
+
 http://pidashcam.blogspot.nl/2013/09/configuration.html
 http://www.arducam.com/multi-camera-adapter-module-raspberry-pi/
 http://www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-and-opencv/
@@ -11,7 +42,6 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=108881
 
 
 # Physical setup:
-
 http://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/
 
 Frame base:
