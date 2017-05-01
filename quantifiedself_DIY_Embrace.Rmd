@@ -8,8 +8,8 @@ Tech details embrace:
 
 - https://support.empatica.com/hc/en-us/articles/203934665-What-are-the-differences-between-Embrace-and-E4-)
 - https://www.empatica.com/embrace-watch-technology 
-- Y: https://en.wikipedia.org/wiki/Electrodermal_activity 
-- N, but interesting!: https://en.wikipedia.org/wiki/Photoplethysmogram
+- Y: https://en.wikipedia.org/wiki/Electrodermal_activity
+- N, but interesting!: https://en.wikipedia.org/wiki/Photoplethysmogram (+ https://www.researchgate.net/profile/John_Allen9/publication/6482990_Photoplethysmography_and_it_application_in_clinical_physiological_measurement/links/541b05c60cf203f155ae7556/Photoplethysmography-and-it-application-in-clinical-physiological-measurement.pdf)
 
 Meanwhile explore alternatives
 
