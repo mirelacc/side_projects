@@ -4,8 +4,9 @@ Check when API arrives
 - https://support.empatica.com/hc/en-us/articles/208553646-Can-I-access-Embrace-APIs
 - https://blog.empatica.com/
 
-Tech details embrace: 
+Details embrace: 
 
+- https://www.empatica.com/science
 - https://support.empatica.com/hc/en-us/articles/203934665-What-are-the-differences-between-Embrace-and-E4-)
 - https://www.empatica.com/embrace-watch-technology 
 - Y: https://en.wikipedia.org/wiki/Electrodermal_activity
