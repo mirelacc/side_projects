@@ -1,0 +1,11 @@
+
+Check when API arrives
+
+- https://support.empatica.com/hc/en-us/articles/208553646-Can-I-access-Embrace-APIs
+- https://blog.empatica.com/
+
+(tech sheet embrace: https://support.empatica.com/hc/en-us/articles/203934665-What-are-the-differences-between-Embrace-and-E4-)
+
+Meanwhile explore alternatives
+
+- https://hackaday.io/project/13044-aman-the-low-cost-wireless-stress-monitoring-sock
