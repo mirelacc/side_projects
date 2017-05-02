@@ -1,5 +1,5 @@
 
-Check when API arrives
+Check whether API arrived:
 
 - https://support.empatica.com/hc/en-us/articles/208553646-Can-I-access-Embrace-APIs
 - https://blog.empatica.com/
@@ -12,6 +12,12 @@ Details embrace:
 - Y: https://en.wikipedia.org/wiki/Electrodermal_activity
 - N, but interesting!: https://en.wikipedia.org/wiki/Photoplethysmogram (+ https://www.researchgate.net/profile/John_Allen9/publication/6482990_Photoplethysmography_and_it_application_in_clinical_physiological_measurement/links/541b05c60cf203f155ae7556/Photoplethysmography-and-it-application-in-clinical-physiological-measurement.pdf)
 
-Meanwhile explore alternatives
+Meanwhile explore alternatives:
 
 - https://hackaday.io/project/13044-aman-the-low-cost-wireless-stress-monitoring-sock
+- Read out data via bluethooth to file, parse later? test:
+- https://github.com/khvzak/bluez-tools 
+- https://code.google.com/archive/p/bluez-tools/ 
+- https://wiki.archlinux.org/index.php/bluetooth 
+- http://pi19404.github.io/pyVision/2015/04/03/22/
+
